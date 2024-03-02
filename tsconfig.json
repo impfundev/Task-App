@@ -14,7 +14,7 @@
     "noEmit": true,
     "jsx": "react-jsx",
 
-    /* Import Config */
+    /* Custom Config */
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]

@@ -1,7 +1,9 @@
+import TaskPage from "@/components/pages/task";
+
 function App() {
   return (
     <>
-      <div></div>
+      <TaskPage />
     </>
   );
 }
