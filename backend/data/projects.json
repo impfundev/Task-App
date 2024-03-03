@@ -1,0 +1,30 @@
+[
+  {
+    "id": "PROJECT-dac0491f-91d2-4b2f-82f5-7207af8352ea",
+    "title": "Full-Stack Blog Platform",
+    "label": "productifity",
+    "status": "in progress",
+    "priority": "medium"
+  },
+  {
+    "id": "PROJECT-598e9faf-1450-450a-8be8-8f3f41dfd216",
+    "title": "Full-Stack Nike Store Clone",
+    "label": "ecommerce",
+    "status": "planned",
+    "priority": "hight"
+  },
+  {
+    "id": "PROJECT-dae415cf-6dcd-456c-8188-83a760f38256",
+    "title": "Full-Stack Project Management Web App",
+    "label": "productifity",
+    "status": "done",
+    "priority": "low"
+  },
+  {
+    "id": "PROJECT-asc123fg-5gcd-298c-22bf-17a150d20227",
+    "title": "Instagram Clone",
+    "label": "socialmedia",
+    "status": "in progress",
+    "priority": "medium"
+  }
+]

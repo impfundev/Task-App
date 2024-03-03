@@ -1,0 +1,20 @@
+[
+  {
+    "id": "dac0491f-91d2-4b2f-82f5-7207af8352ea",
+    "username": "User 1",
+    "email": "user@email.com",
+    "password": "user123"
+  },
+  {
+    "id": "598e9faf-1450-450a-8be8-8f3f41dfd216",
+    "username": "User 2",
+    "email": "user@email.com",
+    "password": "user123"
+  },
+  {
+    "id": "dae415cf-6dcd-456c-8188-83a760f38256",
+    "username": "User 3",
+    "email": "user@email.com",
+    "password": "user123"
+  }
+]
